@@ -1,3 +1,9 @@
+django-shibboleth (1.2-2) unstable; urgency=low
+
+  * Update Debian packaging.
+
+ -- Brian May <bam@debian.org>  Wed, 29 May 2013 10:23:55 +1000
+
 django-shibboleth (1.2-1) stable; urgency=low
 
   * pep8 fixes
